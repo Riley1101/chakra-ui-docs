@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Riley1101/chakra-ui-docs is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -18,13 +19,17 @@ Riley1101/chakra-ui-docs is built on the following main stack:
 - [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Riley1101/chakra-ui-docs is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -41,16 +46,19 @@ Riley1101/chakra-ui-docs is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Riley1101/chakra-ui-docs](https://github.com/Riley1101/chakra-ui-docs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|11/11/23 <br/>Report generated|
+|52<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -115,6 +123,19 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://reactjs.org/">React</a></sub>
   <br>
   <sub>v18.1.0</sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'>
+  <br>
+  <sub><a href="https://github.com/pgvector/pgvector/">pgvector</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 </tr>
@@ -189,7 +210,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (7)
+## Other (8)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/8438/xyht_7gq_400x400.jpg' alt='Docusaurus'>
@@ -205,6 +226,14 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://jaredpalmer.com/formik/">Formik</a></sub>
   <br>
   <sub>v2.2.9</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'>
+  <br>
+  <sub><a href="https://github.com/hwchase17/langchain">LangChain</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -251,9 +280,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (26)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (26)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -261,8 +290,8 @@ Full tech stack [here](/techstack.md)
 |[@octokit/rest](https://www.npmjs.com/@octokit/rest)|v19.0.5|10/17/22|dependabot[bot] |MIT|N/A|
 |[@types/lodash.get](https://www.npmjs.com/@types/lodash.get)|v4.4.7|01/10/23|Andrej |MIT|N/A|
 |[@types/node](https://www.npmjs.com/@types/node)|v18.0.0|01/10/23|Andrej |MIT|N/A|
-|[@types/react](https://www.npmjs.com/@types/react)|v18.0.9|07/04/23|dependabot[bot] |MIT|N/A|
-|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.0.4|07/04/23|dependabot[bot] |MIT|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|v18.0.9|08/17/23|Segun Adebayo |MIT|N/A|
+|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.0.4|08/17/23|Segun Adebayo |MIT|N/A|
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.30.0|01/10/23|Andrej |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|02/19/23|Johann Ehlers |MIT|N/A|
 |[eslint-import-resolver-typescript](https://www.npmjs.com/eslint-import-resolver-typescript)|v3.1.3|01/10/23|Andrej |ISC|N/A|
@@ -272,14 +301,16 @@ Full tech stack [here](/techstack.md)
 |[lodash.get](https://www.npmjs.com/lodash.get)|v4.4.2|06/25/22|Tyler Pfledderer |MIT|N/A|
 |[markdown-toc](https://www.npmjs.com/markdown-toc)|v1.2.0|12/09/21|Esther Agbaje |MIT|N/A|
 |[mkdirp](https://www.npmjs.com/mkdirp)|v1.0.4|08/25/22|Lazar Nikolov |MIT|N/A|
+|[next-contentlayer](https://www.npmjs.com/next-contentlayer)|v0.3.0|02/19/23|Johann Ehlers |N/A|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v3.2.10|08/25/22|Lazar Nikolov |MIT|N/A|
 |[plop](https://www.npmjs.com/plop)|v3.1.2|04/27/23|Segun Adebayo |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v18.1.0|07/04/23|dependabot[bot] |MIT|N/A|
-|[react-icons](https://www.npmjs.com/react-icons)|v4.4.0|07/04/23|dependabot[bot] |MIT|N/A|
-|[react-live](https://www.npmjs.com/react-live)|v2.3.0|07/04/23|dependabot[bot] |MIT|N/A|
-|[react-table](https://www.npmjs.com/react-table)|v7.8.0|07/04/23|dependabot[bot] |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v18.1.0|08/17/23|Segun Adebayo |MIT|N/A|
+|[react-icons](https://www.npmjs.com/react-icons)|v4.4.0|08/17/23|Segun Adebayo |MIT|N/A|
+|[react-live](https://www.npmjs.com/react-live)|v2.3.0|08/17/23|Segun Adebayo |MIT|N/A|
+|[react-table](https://www.npmjs.com/react-table)|v7.8.0|08/17/23|Segun Adebayo |MIT|N/A|
 |[remark](https://www.npmjs.com/remark)|v14.0.2|12/09/21|Esther Agbaje |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.30.7|12/22/22|dependabot[bot] |Apache-2.0|N/A|
+|[semver](https://www.npmjs.com/semver)|v7.3.7|09/08/22|Lazar Nikolov |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
+|[sharp](https://www.npmjs.com/sharp)|v0.30.7|12/22/22|dependabot[bot] |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[shelljs](https://www.npmjs.com/shelljs)|v0.8.5|03/27/22|Segun Adebayo |BSD-3-Clause|N/A|
 |[unified](https://www.npmjs.com/unified)|v10.1.2|08/25/22|Lazar Nikolov |MIT|N/A|
 |[unist-util-visit](https://www.npmjs.com/unist-util-visit)|v4.1.1|02/19/23|Johann Ehlers |MIT|N/A|
@@ -287,4 +318,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
